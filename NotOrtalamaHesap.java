@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class NotOrtalamaHesap {
     public static void main(String[] args) {
         int mat,fizik,kimya,turkce,tarih,muzik;
-        float ortalama;
+        double ortalama;
         Scanner input = new Scanner(System.in);
         System.out.print("Mat notu:");
         mat=input.nextInt();
