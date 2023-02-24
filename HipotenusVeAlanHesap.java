@@ -11,14 +11,15 @@ public class HipotenusVeAlanHesap {
         hipotenus = Math.sqrt((Math.pow(kenar1,2))+Math.pow(kenar2,2));
         System.out.println("Hipotenüs : "+hipotenus);*/
 
-        double kenar1,kenar2,kenar3,u,alan;
+        int kenar1,kenar2,kenar3;
+        double u,alan;
         Scanner input=new Scanner(System.in);
         System.out.print("Kenar1 : ");
-        kenar1=input.nextDouble();
+        kenar1=input.nextInt();
         System.out.print("Kenar2 : ");
-        kenar2=input.nextDouble();
+        kenar2=input.nextInt();
         System.out.print("Kenar3 : ");
-        kenar3=input.nextDouble();
+        kenar3=input.nextInt();
         u=(kenar1+kenar2+kenar3)/2;
         alan=Math.sqrt(u*(u-kenar1)*(u-kenar2)*(u-kenar3));
         System.out.println("Üçgenin alanı : "+alan);
