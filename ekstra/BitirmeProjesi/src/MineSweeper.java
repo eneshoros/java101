@@ -8,8 +8,6 @@ public class MineSweeper {
     char[][] game;
     char[][] mineInGame;
     int mineNumber;
-    int[] mineRow;
-    int[] mineCol;
     int guessRow;
     int guessCol;
     int step;
@@ -42,12 +40,9 @@ public class MineSweeper {
     char[][] fillMineInGame(char[][] dizi) {
         Random rnd = new Random();
         int rastgeleSayi;
-        int sayac=0;
         int tempMine=this.mineNumber;
         while (tempMine > 0) {
             rastgeleSayi = rnd.nextInt((this.rowNumber * this.colNumber));
-            this.mineRow[sayac] = rastgeleSayi / 3;
-            this.mineCol[sayac] = rastgeleSayi % 3;
             this.mineInGame[rastgeleSayi / 3][rastgeleSayi % 3] = '*';
             tempMine--;
         }
