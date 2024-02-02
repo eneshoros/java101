@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ekstra/BitirmeProjesi/BitirmeProjesi.iml" filepath="$PROJECT_DIR$/ekstra/BitirmeProjesi/BitirmeProjesi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siniflar/BoksMaci/BoksMaci.iml" filepath="$PROJECT_DIR$/siniflar/BoksMaci/BoksMaci.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siniflar/Employee/Employee.iml" filepath="$PROJECT_DIR$/siniflar/Employee/Employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siniflar/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" filepath="$PROJECT_DIR$/siniflar/OgrenciBilgiSistemi/OgrenciBilgiSistemi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diziler/diziler.iml" filepath="$PROJECT_DIR$/diziler/diziler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dongu/dongu.iml" filepath="$PROJECT_DIR$/dongu/dongu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ekstra/ekstra.iml" filepath="$PROJECT_DIR$/ekstra/ekstra.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java101.iml" filepath="$PROJECT_DIR$/.idea/java101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kosulluIfadeler/kosulluIfadeler.iml" filepath="$PROJECT_DIR$/kosulluIfadeler/kosulluIfadeler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metot/metot.iml" filepath="$PROJECT_DIR$/metot/metot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop/oop.iml" filepath="$PROJECT_DIR$/oop/oop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/siniflar/siniflar.iml" filepath="$PROJECT_DIR$/siniflar/siniflar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/temelKavramVeDegiskenler/temelKavramVeDegiskenler.iml" filepath="$PROJECT_DIR$/temelKavramVeDegiskenler/temelKavramVeDegiskenler.iml" />
+    </modules>
+  </component>
+</project>
